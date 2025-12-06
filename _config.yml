@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Yussef Oufkir
 description              : Yussef Oufkir - Projects and CV 
-baseurl                  : "/spring-2025-portfolio-yro2"
+baseurl                  : "/portfolio-yro2"
 url                      : "https://cornell-mae-ug.github.io"
 
 
