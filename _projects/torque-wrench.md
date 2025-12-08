@@ -12,4 +12,4 @@ The core challenge was to **iterate a design** from an initial baseline using a 
 
 Using FEM in ANSYS, I performed a **stress analysis** on the optimized design to precisely determine the maximum normal stress, load point deflection, and strain at the gauge locations. A key learning objective was to **compare and understand the results** from the simplified hand calculations versus the more detailed FEM results, particularly regarding stress concentrations and deflection. The final output included the CAD model, material justification, FEM contour plots, and a summary of the wrench's sensitivity.
 
-[Find the full analysis here]({{ "/assets/yro2.pdf" | relative_url }}) in PDF format.
+[Find the full analysis here]({{ "/assets/FINAL.pdf" | relative_url }}) in PDF format.
