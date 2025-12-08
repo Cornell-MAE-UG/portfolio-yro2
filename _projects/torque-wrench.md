@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Instrumented Torque Wrench Design and Analysis
+title: Torque Wrench Design and Analysis
 description: Design, optimization, and finite element analysis of a non-ratcheting torque wrench to meet multiple safety and sensitivity requirements.
 technologies: [Finite Element Analysis (ANSYS), CAD Modeling (Fusion), Python]
-image: /assets/images/wrench_schematic.png 
+image: /assets/images/DISPLACEMENT NEW.png 
 ---
 
-As part of the MAE 3270 course (Mechanics of Engineering Materials), I undertook a design project focused on creating an **instrumented torque wrench** rated for 600 in-lbf. The design goal was to select appropriate materials and dimensions to achieve high **sensitivity** (at least 1.0 mV/V output) while satisfying strict **safety factors** for static strength ($X_0 = 4$), fatigue ($X_s = 1.5$), and fracture mechanics ($X_k = 2$).
+As part of the MAE 3270 course (Mechanics of Engineering Materials), I undertook a design project focused on creating an **instrumented torque wrench** rated for 600 in-lbf. The design goal was to select appropriate materials and dimensions to achieve high **sensitivity** (at least 1.0 mV/V output) while satisfying strict **safety factors** for static strength, fatigue, and fracture mechanics.
 
 The core challenge was to **iterate a design** from an initial baseline using a **Python script** for hand calculations, then validate and refine the final design using **Finite Element Analysis (FEM)**.
 
